@@ -131,6 +131,6 @@ a:active{
     margin-right: auto;
 }
 
-.visually-hidden{
-    display: none;
+.footer {
+    padding: var(--footer-padding);
 }
